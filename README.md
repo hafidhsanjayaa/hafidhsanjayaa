@@ -6,6 +6,7 @@
 - 📫 How to reach me **hafidhsanjaya2@gmail.com**
 
 - ⚡ Fun fact **I love learning and exploring new things**
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafidhsanjayaa&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
